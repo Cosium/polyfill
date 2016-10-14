@@ -1,9 +1,9 @@
 {
-  "name": "js-polyfills",
+  "name": "cos-url-polyfills",
   "version": "0.1.27",
-  "homepage": "https://github.com/inexorabletash/polyfill",
+  "homepage": "https://github.com/Cosium/polyfill",
   "authors": [
-    "Joshua Bell <inexorabletash@gmail.com>"
+    "Réda Housni Alaoui <reda.housnialaoui@gmail.com>"
   ],
   "description": "Various Web API and ECMAScript Polyfills",
   "license": "Unlicense",
